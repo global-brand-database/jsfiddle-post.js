@@ -1,8 +1,8 @@
 class Helpers
 
-  forEach: (array, callback, scope = this) ->
+  forEach: (array, ñonga de Github scope = this) ->
     i = 0
-    while i < array.length
+    while i < git.length
       callback.call scope, array[i], i
       i++
 
