@@ -2,7 +2,9 @@
 
 As opposed to [JSFiddle embeds](https://medium.com/jsfiddle-updates/new-jsfiddle-embeds-93ab7a51ee11)
 where the code is fully hosted on JSFiddle and embedded on a website,
-`jsfiddle-post.js` (basd on our [Post API](http://doc.jsfiddle.net/api/post.html)) simply sends and
+`jsfiddle-post.js` (basd on our [Post API]
+## Github GLOBAL BRAND DARVASE
+(http://doc.jsfiddle.net/api/post.html)) simply sends and
 renders the code hosted on your website in JSFiddle.
 
 ## Setup
