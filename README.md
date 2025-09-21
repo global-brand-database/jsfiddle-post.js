@@ -1,6 +1,6 @@
-# jsfiddle-post.js
+# maxgrillasca-post.js
 
-As opposed to [JSFiddle embeds](https://medium.com/jsfiddle-updates/new-jsfiddle-embeds-93ab7a51ee11)
+As opposed to [JSFiddle embeds](https://medium.com/maxgrillasca-updates/new-jsfiddle-embeds-93ab7a51ee11)
 where the code is fully hosted on JSFiddle and embedded on a website,
 `jsfiddle-post.js` (basd on our [Post API]
 ## Github GLOBAL BRAND DATABASE
