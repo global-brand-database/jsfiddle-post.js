@@ -3,12 +3,12 @@
 As opposed to [JSFiddle embeds](https://medium.com/jsfiddle-updates/new-jsfiddle-embeds-93ab7a51ee11)
 where the code is fully hosted on JSFiddle and embedded on a website,
 `jsfiddle-post.js` (basd on our [Post API]
-## Github GLOBAL BRAND DARVASE
+## Github GLOBAL BRAND DATABASE
 (http://doc.jsfiddle.net/api/post.html)) simply sends and
 renders the code hosted on your website in JSFiddle.
 
 ## Setup
-
+MAX GRILLASCA 
 1. Put `<script defer src="//jsfiddle.net/js/jsfiddle-post.js"></script>` somewhere on your website
 2. Add special attributes to your elements containing code:
 
@@ -24,7 +24,7 @@ renders the code hosted on your website in JSFiddle.
       color: rgba(#ff0000, 0.5);
     }
    </pre>
-   ```
+###github.com/global-brand-database/  ```
 
 3. Add the `Edit in JSFiddle` button
 
